@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="1" name="Dmoney API chaining">
+    <test name="Login and Create user and agent">
+        <classes>
+            <class name="testrunner.UserTestRunner"/>
+        </classes>
+    </test>
+    <test name="Transaction">
+        <classes>
+            <class name="testrunner.TransactionTestRunner"/>
+        </classes>
+    </test>
+</suite>
