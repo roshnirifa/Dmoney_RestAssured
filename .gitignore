@@ -3,7 +3,7 @@ build/
 .idea
 build
 allure-report
-allure-result
+allure-results
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/

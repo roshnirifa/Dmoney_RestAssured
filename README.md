@@ -5,7 +5,8 @@ This project demonstrates how to perform API testing using Rest Assured on the g
 
 ## frameWork
 - Rest Assured
-- Selenium
+- JUnit
+- TestNG
  
 ## Functionalities
 
